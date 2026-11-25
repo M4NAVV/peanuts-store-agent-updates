@@ -1,7 +1,12 @@
 {
-  "issued": "2026-11-25T02:37:29Z",
+  "issued": "2026-11-25T05:34:37Z",
   "channels": {
     "pilot": {
+      "version": "0.3.1",
+      "url": "https://github.com/M4NAVV/peanuts-store-agent-updates/releases/download/v0.3.1/PeanutsStoreAgent-0.3.1.exe",
+      "sha256": "ccf5efee3fd809cf5b49172dad3ad6a3a7d0feea10ab63210b6c70a2adf45df2"
+    },
+    "stable": {
       "version": "0.3.1",
       "url": "https://github.com/M4NAVV/peanuts-store-agent-updates/releases/download/v0.3.1/PeanutsStoreAgent-0.3.1.exe",
       "sha256": "ccf5efee3fd809cf5b49172dad3ad6a3a7d0feea10ab63210b6c70a2adf45df2"
